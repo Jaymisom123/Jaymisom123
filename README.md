@@ -1,6 +1,6 @@
 # jaymisom Rodrigo ✔
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Sou Jaymisom Rodrigo, tenho 37 anos e sou natural do Pará. Concluí o ensino médio no CEE "Centro Educacional Europa, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na ASSELVI.
 FACEBOOK
