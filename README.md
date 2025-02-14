@@ -196,7 +196,6 @@ Estou sempre aberto a novas oportunidades e a aprender mais sobre as tecnologias
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      style="padding-right: 10px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaymisom123&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
