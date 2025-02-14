@@ -10,10 +10,12 @@ Além disso, possuo experiência com HTML5, CSS3 ,JavaScript e TypeScript, e est
 Acredito na importância de um código bem estruturado, testado e otimizado, e estou sempre em busca de melhorar as minhas habilidades através de novos desafios. Ao longo da minha carreira, aprendi a trabalhar bem em equipe e a colaborar com diferentes áreas para entregar resultados que atendem às necessidades dos usuários e dos negócios.
 
 Estou sempre aberto a novas oportunidades e a aprender mais sobre as tecnologias emergentes.
+
 FACEBOOK
-(facebook.com/share/6Awh8fm8UohQCyN9/?mibextid=qi2Omg) 
+ <a hfef="facebook.com/share/6Awh8fm8UohQCyN9/?mibextid=qi2Omg">
 INSTAGRAM
-instagram.com/jaymisom_rodrigo?igsh=MTBhcWY4ZXZodWlq
+ <a hfef="instagram.com/jaymisom_rodrigo?igsh=MTBhcWY4ZXZodWlq">
+
 
 <p align="left">
     <a href="https://www.youtube.com/@jaymisomrodrigoOficial">
