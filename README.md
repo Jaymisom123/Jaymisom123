@@ -2,7 +2,14 @@
 
 **`Desenvolvedor FullStack`**
 
-Sou Jaymisom Rodrigo, tenho 37 anos e sou natural do Pará. Concluí o ensino médio no CEE "Centro Educacional Europa, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na ASSELVI.
+Olá! Eu sou Jaymisom Rodrigo, um desenvolvedor Fullstack apaixonado por criar soluções inovadoras e eficientes. Tenho 37 anos e uma sólida experiência no desenvolvimento de aplicativos web utilizando as mais modernas tecnologias. Atualmente, sou especialista em React.js, que utilizo para criar interfaces dinâmicas e responsivas, e também trabalho com Node.js, Express, 
+ MongoDB e outras Tecnologias , para garantir que as aplicações sejam rápidas, escaláveis e de fácil manutenção.
+
+Além disso, possuo experiência com HTML5, CSS3 ,JavaScript e TypeScript, e estou sempre buscando me atualizar sobre as melhores práticas e ferramentas do mercado. Meu conhecimento em UI/UX e Figma me permite entregar soluções que não são apenas funcionais, mas também intuitivas e agradáveis para o usuário.
+
+Acredito na importância de um código bem estruturado, testado e otimizado, e estou sempre em busca de melhorar as minhas habilidades através de novos desafios. Ao longo da minha carreira, aprendi a trabalhar bem em equipe e a colaborar com diferentes áreas para entregar resultados que atendem às necessidades dos usuários e dos negócios.
+
+Estou sempre aberto a novas oportunidades e a aprender mais sobre as tecnologias emergentes.
 FACEBOOK
 (facebook.com/share/6Awh8fm8UohQCyN9/?mibextid=qi2Omg) 
 INSTAGRAM
@@ -150,14 +157,7 @@ instagram.com/jaymisom_rodrigo?igsh=MTBhcWY4ZXZodWlq
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+
 
 <br/>
 <br/>
