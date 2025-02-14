@@ -9,12 +9,28 @@ Além disso, possuo experiência com HTML5, CSS3 ,JavaScript e TypeScript, e est
 
 Acredito na importância de um código bem estruturado, testado e otimizado, e estou sempre em busca de melhorar as minhas habilidades através de novos desafios. Ao longo da minha carreira, aprendi a trabalhar bem em equipe e a colaborar com diferentes áreas para entregar resultados que atendem às necessidades dos usuários e dos negócios.
 
-Estou sempre aberto a novas oportunidades e a aprender mais sobre as tecnologias emergentes.
+Estou sempre aberto a novas oportunidades e a aprender mais sobre as tecnologias emergentes. <br> <br>
 
-FACEBOOK
- <a hfef="facebook.com/share/6Awh8fm8UohQCyN9/?mibextid=qi2Omg">
-INSTAGRAM
- <a hfef="instagram.com/jaymisom_rodrigo?igsh=MTBhcWY4ZXZodWlq">
+<a href="https://www.facebook.com/share/18roVchJRa/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Descrição da Imagem" width="100px" align="left" >
+</a>
+
+<a href="https://www.instagram.com/jaymisom_rodrigo?igsh=MTBhcWY4ZXZodWlq">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Descrição da Imagem" width="100px" align="left">
+</a>
+
+<a href="https://www.linkedin.com/in/jaime-rêgo-farias-a8b7332b3">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Descrição da Imagem" width="100px" align="left">
+</a>
+
+
+<a href="https://wa.me/5594991518569">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Descrição da Imagem" width="100px" align="left"> <br> <br>
+</a>
+
+
+
+
 
 
 <p align="left">
