@@ -92,10 +92,6 @@ Estou sempre aberto a novas oportunidades e a aprender mais sobre as tecnologias
 <a href="#" target="_blank">
   <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Website"  height="40" width="40">
 </a>
-<a href="https://www.facebook.com/share/18roVchJRa/">
-    <img src="	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Descrição da Imagem" width="100px" align="left" >
-</a>
-
 <a href="https://wa.me/5594991518569">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Descrição da Imagem" width="100px" align="left"> <br> <br>
 </a>
