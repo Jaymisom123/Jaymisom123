@@ -100,7 +100,8 @@ Estou sempre aberto a novas oportunidades e a aprender mais sobre as tecnologias
 
 
  
-![Snake animation](https://github.com/Jaymisom123/Jaymisom123/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/katianne23/katianne23/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
