@@ -1,19 +1,27 @@
 <img src="https://github.com/Jaymisom123/perfil/blob/main/post%20git.png?raw=true" alt="pfotoperfil"  width="600"   />
-<h3 align="center">👋 Hi there! I'm Jayme Rêgo, a passionate Full Stack Developer focused on building innovative, scalable, and high-quality web applications. Welcome to my portfolio!
+<h3 align="center">👋 Hi there! I'm Jayme Rêgo, a passionate Full Stack Developer focused on building 
+    innovative, scalable, and high-quality web applications. Welcome to my Git hub!
 
-    💼 I have hands-on experience in web development, working mainly with JavaScript, TypeScript, React, Next.js, Node.js, and Express. My goal is always to deliver complete solutions with modern interfaces and smooth user experiences.
+    💼 I have hands-on experience in web development, working mainly with JavaScript,
+    TypeScript, React,Next.js, Node.js, and Express.My goal is always to deliver complete
+    solutions with modern interfaces and smooth user experiences.
     
-    🌐 On the front-end, I use modern frameworks like React and Next.js to build high-performance, responsive, and pixel-perfect designs.
+    🌐 On the front-end, I use modern frameworks like React and Next.js to build 
+    high-performance, responsive, and pixel-perfect designs.
     
-    ⚙️ On the back-end, I work with Node.js, Express, and databases like MongoDB and PostgreSQL, developing robust, secure, and optimized APIs.
+    ⚙️ On the back-end, I work with Node.js, Express, and databases like MongoDB and
+    PostgreSQL, developing robust, secure, and optimized APIs.
     
-    🛠️ I also have knowledge of DevOps practices, using tools like Docker to create isolated environments and automate deployment processes.
+    🛠️ I also have knowledge of DevOps practices, using tools like Docker to create
+    isolated environments and automate deployment processes.
     
-    💡 Driven by curiosity and a passion for learning, I'm always exploring new technologies to deliver the best results in every project.
+    💡 Driven by curiosity and a passion for learning, I'm always exploring new
+    technologies to deliver the best results in every project.
     
-    🚀 This portfolio is still evolving, and I’m open to feedback to make it even better! Feel free to explore and share your thoughts.
+    🚀 This portfolio is still evolving, and I’m open to feedback to make it even 
+    better! Feel free to explore and share your thoughts.
     
-     🔗 Confira meu portfólio: [portfoliojaymerego.netlify.app](https://680672b45d302135fff5e341--portfoliojaymerego.netlify.app/)
+     🔗 Confira meu portfólio: [portfoliojaymerego.netlify.app](https://680672b45d302135fff5e341--portfoliojaymerego.netlify.app/]
     
     Let’s connect and build amazing things together!
     
