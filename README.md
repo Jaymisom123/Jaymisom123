@@ -21,7 +21,8 @@
     🚀 This portfolio is still evolving, and I’m open to feedback to make it even 
     better! Feel free to explore and share your thoughts.
     
-     🔗 Confira meu portfólio: [portfoliojaymerego.netlify.app](https://680672b45d302135fff5e341--portfoliojaymerego.netlify.app/]
+     🔗 Confira meu portfólio: 
+     [portfoliojaymerego.netlify.app](https://680672b45d302135fff5e341--portfoliojaymerego.netlify.app/)
     
     Let’s connect and build amazing things together!
     
