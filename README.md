@@ -1,32 +1,34 @@
 <img src="https://github.com/Jaymisom123/perfil/blob/main/post%20git.png?raw=true" alt="pfotoperfil"   />
 <h3 align="center">👋 Hi there! I'm Jayme Rêgo, a passionate Full Stack Developer focused on building 
-    innovative, scalable, and high-quality web applications. Welcome to my Git Hub!
+    innovative, scalable, and high-quality web applications. Welcome to my Git Hub
+    
+💼 Tenho experiência prática em desenvolvimento web, trabalhando principalmente
+com JavaScript,TypeScript, React, Next.js, Node.js e Express. Meu objetivo
+é sempre entregar soluções completas com interfaces modernas e experiências 
+de usuário suaves.
 
-    💼 I have hands-on experience in web development, working mainly with JavaScript,
-    TypeScript, React,Next.js, Node.js, and Express.My goal is always to deliver complete
-    solutions with modern interfaces and smooth user experiences.
-    
-    🌐 On the front-end, I use modern frameworks like React and Next.js to build 
-    high-performance, responsive, and pixel-perfect designs.
-    
-    ⚙️ On the back-end, I work with Node.js, Express, and databases like MongoDB and
-    PostgreSQL, developing robust, secure, and optimized APIs.
-    
-    🛠️ I also have knowledge of DevOps practices, using tools like Docker to create
-    isolated environments and automate deployment processes.
-    
-    💡 Driven by curiosity and a passion for learning, I'm always exploring new
-    technologies to deliver the best results in every project.
-    
-    🚀 This portfolio is still evolving, and I’m open to feedback to make it even 
-    better! Feel free to explore and share your thoughts.
-    
-     🔗 Confira meu portfólio: 
-    https://680672b45d302135fff5e341--portfoliojaymerego.netlify.app/
-    
-    Let’s connect and build amazing things together!
-    
-    #WebDevelopment #FullStack #ReactJS #NextJS #NodeJS #Portfolio</h3>
+🌐 No front-end, utilizo frameworks modernos como React e Next.js para 
+construir designs de alto desempenho, responsivos e com perfeição nos detalhes.
+
+⚙️ No back-end, trabalho com Node.js, Express e bancos de dados como MongoDB
+e PostgreSQL, desenvolvendo APIs robustas, seguras e otimizadas.
+
+🛠️ Também tenho conhecimento em práticas de DevOps, utilizando ferramentas 
+como Docker para criar ambientes isolados e automatizar processos de deploy.
+
+💡 Movido pela curiosidade e paixão por aprender, estou sempre explorando
+novas tecnologias para entregar os melhores resultados em cada projeto.
+
+🚀 Este portfólio ainda está em evolução, e estou aberto a feedbacks para 
+torná-lo ainda melhor! Sinta-se à vontade para explorar e compartilhar suas ideias.
+
+🔗 Confira meu portfólio:  
+https://680672b45d302135fff5e341--portfoliojaymerego.netlify.app/
+
+Vamos nos conectar e construir coisas incríveis juntos!
+
+#DesenvolvimentoWeb #FullStack #ReactJS #NextJS #NodeJS #Portfólio</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
