@@ -1,4 +1,4 @@
-<img src="https://github.com/Jaymisom123/perfil/blob/main/post%20git.png?raw=true" alt="pfotoperfil" />
+<img src="https://github.com/Jaymisom123/perfil/blob/main/post%20git.png?raw=true" alt="pfotoperfil"  width="300"  />
 <h3 align="center">👋 Hi there! I'm Jayme Rêgo, a passionate Full Stack Developer focused on building innovative, scalable, and high-quality web applications. Welcome to my portfolio!
 
     💼 I have hands-on experience in web development, working mainly with JavaScript, TypeScript, React, Next.js, Node.js, and Express. My goal is always to deliver complete solutions with modern interfaces and smooth user experiences.
