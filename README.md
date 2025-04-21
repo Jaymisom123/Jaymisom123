@@ -22,7 +22,7 @@
     better! Feel free to explore and share your thoughts.
     
      🔗 Confira meu portfólio: 
-     [portfoliojaymerego.netlify.app](https://680672b45d302135fff5e341--portfoliojaymerego.netlify.app/)
+    https://680672b45d302135fff5e341--portfoliojaymerego.netlify.app/
     
     Let’s connect and build amazing things together!
     
