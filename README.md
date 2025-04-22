@@ -78,9 +78,7 @@ Vamos nos conectar e construir coisas incríveis juntos!
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jaymisom123&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaymisom123&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
   <br>
- ##
 <div> 
 <a href="https://www.instagram.com/jaymisom_rodrigo?igsh=MTBhcWY4ZXZodWlq" target="_blank">
   <img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" alt="Instagram" height="40" width="40">
