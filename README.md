@@ -1,6 +1,7 @@
 <img src="https://github.com/Jaymisom123/perfil/blob/main/post%20git.png?raw=true" alt="pfotoperfil"   />
-<h3 align="center">👋 Hi there! I'm Jayme Rêgo, a passionate Full Stack Developer focused on building 
-    innovative, scalable, and high-quality web applications. Welcome to my Git Hub
+
+<h3 align="center">👋 Olá! Eu sou Jayme Rêgo, um Desenvolvedor Full Stack apaixonado por construir 
+    aplicações web inovadoras, escaláveis e de alta qualidade. Seja bem-vindo ao meu GitHub!
     
 💼 Tenho experiência prática em desenvolvimento web, trabalhando principalmente
 com JavaScript,TypeScript, React, Next.js, Node.js e Express. Meu objetivo
