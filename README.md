@@ -25,6 +25,7 @@ torná-lo ainda melhor! Sinta-se à vontade para explorar e compartilhar suas id
 
 🔗 Confira meu portfólio:  
 https://portifoliojaime.netlify.app/
+<br/>
 Vamos nos conectar e construir coisas incríveis juntos!
 
 #DesenvolvimentoWeb #FullStack #ReactJS #NextJS #NodeJS #Portfólio</h3>
