@@ -24,8 +24,7 @@ novas tecnologias para entregar os melhores resultados em cada projeto.
 torná-lo ainda melhor! Sinta-se à vontade para explorar e compartilhar suas ideias.
 
 🔗 Confira meu portfólio:  
-https://680672b45d302135fff5e341--portfoliojaymerego.netlify.app/
-
+https://portifoliojaime.netlify.app/
 Vamos nos conectar e construir coisas incríveis juntos!
 
 #DesenvolvimentoWeb #FullStack #ReactJS #NextJS #NodeJS #Portfólio</h3>
